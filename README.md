@@ -24,9 +24,13 @@ The aim of this course is to familiarise students with the discipline of biostat
 After successfully completing this course you should be able to:
 
 1  Understand the basic concepts in biostatistics.
+
 2  Understand the basic skill sets in R programming language. 
+
 3  Become confident in using R for data analysis.
+
 4  Gain hand-on experience in data visualization.
+
 5  Gain hand-on experience in data handling and wrangling. 
 
 # 3. Learning Resources
