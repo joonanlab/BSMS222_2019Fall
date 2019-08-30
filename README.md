@@ -40,19 +40,30 @@ In addition, slides and materials will be posted on the Blackboard as these beco
 ## 4.1 Learning Activities
 ### Session 1 R
 [Introduction, R & Rstudio (9/2)](https://docs.google.com/presentation/d/1io0lPt04rNdfhjfUWTTEyVHZfQqy-3IcSZn0_xB7ys8/edit?usp=sharing)
+
 R basics (9/6; please note that we don’t have a class on 9/4 so it’s replaced with this date).
+
 R basics (9/9)
+
 Programming basics (9/11)
+
 Programming basics (9/16)
+
 Tidyverse (9/18)
+
 Tidyverse & importing data (9/23)
 
 ### Session 2 Data viz
 ggplot (9/25)
+
 Distribution (9/30)
+
 Data visualization in practice(10/2)
+
 Data visualization principles (10/7)
+
 Robust summaries (10/9)
+
 Supplementary or placeholder (10/14)
 Supplementary or placeholder (10/16)
 
