@@ -39,6 +39,7 @@ In addition, slides and materials will be posted on the Blackboard as these beco
 # 4. Teaching & Learning Activities
 ## 4.1 Learning Activities
 ### Session 1 R
+
 [Introduction, R & Rstudio (9/2)](https://docs.google.com/presentation/d/1io0lPt04rNdfhjfUWTTEyVHZfQqy-3IcSZn0_xB7ys8/edit?usp=sharing)
 
 R basics (9/6; please note that we don’t have a class on 9/4 so it’s replaced with this date).
@@ -54,6 +55,7 @@ Tidyverse (9/18)
 Tidyverse & importing data (9/23)
 
 ### Session 2 Data viz
+
 ggplot (9/25)
 
 Distribution (9/30)
@@ -65,26 +67,41 @@ Data visualization principles (10/7)
 Robust summaries (10/9)
 
 Supplementary or placeholder (10/14)
+
 Supplementary or placeholder (10/16)
 
 ###  Mid term (Week of 10/21)
 
 ### Session 3 Statistics with R
+
 Probability (10/28)
+
 Random variables (10/30)
+
 Statistical Inference (11/4)
+
 Regression (11/6)
+
 Linear model (11/11)
+
 Association is not causation (11/13)
 
 ### Session 4. Data wrangling 
+
 Reshaping (11/18)
+
 Joining tables (11/20)
+
 String process (11/25)
+
 Parsing Dates and Times (11/27)
+
 Text mining (12/2)
+
 Supplementary or placeholder (12/4)
+
 Supplementary or placeholder (12/9)
+
 Supplementary or placeholder (12/11)
 
 ###  Final exam (Week of 12/16)
