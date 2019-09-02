@@ -112,15 +112,15 @@ Supplementary or placeholder (12/11)
 
 # 5. Assessment
 
-Assignments 40%
-	Students will be asked to submit a assignment for every class. An assignment is that students will write down the R markdown for the class and submit it to the blackboard. 
+### Assignments 40%
+Students will be asked to submit a assignment for every class. An assignment is that students will write down the R markdown for the class and submit it to the blackboard. 
 
-Weekly Quiz 20% 
-	Students will be asked to have a quiz for coding test. 
+### Weekly Quiz 20% 
+Students will be asked to have a quiz for coding test. 
 
-Mid term exam 20%
-Final exam 20%
-	Both midterm and final exam will be deciphering R codes and interpreting data tables or figures with statistical terms.  
+### Mid term exam 20%
+### Final exam 20%
+Both midterm and final exam will be deciphering R codes and interpreting data tables or figures with statistical terms.  
 
 
 
