@@ -46,9 +46,9 @@ In addition, slides and materials will be posted on the Blackboard as these beco
 
 [Introduction, R & Rstudio (9/2)](https://docs.google.com/presentation/d/1io0lPt04rNdfhjfUWTTEyVHZfQqy-3IcSZn0_xB7ys8/edit?usp=sharing)
 
-R basics (9/6; please note that we don’t have a class on 9/4 so it’s replaced with this date).
+[R basics (9/6](https://docs.google.com/presentation/d/1itIg6Thp6sn6Saaw3rQNl07XppmqAUtsGwhLSCHnl8I/edit?usp=sharing)
 
-R basics (9/9)
+[R basics (9/9)](https://docs.google.com/presentation/d/1itIg6Thp6sn6Saaw3rQNl07XppmqAUtsGwhLSCHnl8I/edit?usp=sharing)
 
 Programming basics (9/11)
 
