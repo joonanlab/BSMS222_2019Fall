@@ -54,11 +54,9 @@ In addition, slides and materials will be posted on the Blackboard as these beco
 
 [Programming basics part 2 (9/16)](https://docs.google.com/presentation/d/1kGtbLJxBNW-MZMkpgzAwo6vBumdi2RQU2rQypZMfl-I/edit?usp=sharing)
 
-Tidyverse part 1 (9/16)
+[Tidyverse part 1 (9/18)](https://docs.google.com/presentation/d/19xiT-7wL7UKr9IT82wd9kpgmRUbli6D8UFAyNbob6-k/edit?usp=sharing)
 
-Tidyverse part 2 (9/18)
-
-Tidyverse & importing data (9/23)
+[Tidyverse part 2 & importing data (9/23)](https://docs.google.com/presentation/d/19xiT-7wL7UKr9IT82wd9kpgmRUbli6D8UFAyNbob6-k/edit?usp=sharing)
 
 ### Session 2 Data viz
 
