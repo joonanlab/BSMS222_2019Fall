@@ -60,7 +60,7 @@ In addition, slides and materials will be posted on the Blackboard as these beco
 
 ### Session 2 Data viz
 
-ggplot (9/25)
+[ggplot (9/25)](https://docs.google.com/presentation/d/1EGhScgT-2l2O1UohW3Zo_Hp9-TF4f-lnh_L0slNmxaA/edit?usp=sharing)
 
 Distribution (9/30)
 
