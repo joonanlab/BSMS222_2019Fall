@@ -113,7 +113,7 @@ Supplementary or placeholder (12/11)
 # 5. Assessment
 
 ### Assignments 40%
-Students will be asked to submit a assignment for every class. An assignment is that students will write down the R markdown for the class and submit it to the blackboard. 
+Students will be asked to submit a assignment for every class. An assignment is that students will write down the R markdown for the class and submit it vis Slack. 
 
 ### Weekly Quiz 20% 
 Students will be asked to have a quiz for coding test. 
