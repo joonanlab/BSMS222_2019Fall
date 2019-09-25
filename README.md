@@ -35,15 +35,15 @@ After successfully completing this course you should be able to:
 
 # 3. Learning Resources
 
-[<Introduction to Data Science> by Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
+["Introduction to Data Science", Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
 
 Students are expected to submit their assignment before every class. 
 
 Additional resources:
 
-- [<Computational Genomics with R>, Altuna Akalin](http://compgenomr.github.io/book/)
+- ["Computational Genomics with R", Altuna Akalin](http://compgenomr.github.io/book/)
 
-- [<Fundamentals of Data Visualization>, Claus O. Wilke](https://serialmentor.com/dataviz/index.html)
+- ["Fundamentals of Data Visualization", Claus O. Wilke](https://serialmentor.com/dataviz/index.html)
 
 
 
