@@ -34,11 +34,19 @@ After successfully completing this course you should be able to:
 5  Gain hand-on experience in data handling and wrangling. 
 
 # 3. Learning Resources
-<Introduction to Data Science> by Rafael A. Irizarry, 2019. 
-This is an online textbook (FREE): https://rafalab.github.io/dsbook/
+
+[<Introduction to Data Science> by Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
+
 Students are expected to submit their assignment before every class. 
 
-In addition, slides and materials will be posted on the Blackboard as these become available.
+Additional resources:
+
+- [<Computational Genomics with R>, Altuna Akalin](http://compgenomr.github.io/book/)
+
+- [<Fundamentals of Data Visualization>, Claus O. Wilke](https://serialmentor.com/dataviz/index.html)
+
+
+
 
 # 4. Teaching & Learning Activities
 ## 4.1 Learning Activities
