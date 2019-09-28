@@ -70,7 +70,7 @@ Additional resources:
 
 [ggplot (9/25)](https://docs.google.com/presentation/d/1EGhScgT-2l2O1UohW3Zo_Hp9-TF4f-lnh_L0slNmxaA/edit?usp=sharing)
 
-Distribution (9/30)
+[Distribution (9/30)](https://docs.google.com/presentation/d/1x9fRYL5vqiDJyR1di8I0C4_YLd4gyMJ3rJf9O8YR3kw/edit?usp=sharing)
 
 Data visualization in practice(10/2)
 
