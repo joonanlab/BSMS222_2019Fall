@@ -78,9 +78,9 @@ Data visualization principles (10/7)
 
 Robust summaries (10/9)
 
-Supplementary or placeholder (10/14)
+Import data and UNIX (10/14)
 
-Supplementary or placeholder (10/16)
+UNIX tutorial (10/16)
 
 ###  Mid term (Week of 10/21)
 
