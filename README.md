@@ -46,8 +46,6 @@ Additional resources:
 - ["Fundamentals of Data Visualization", Claus O. Wilke](https://serialmentor.com/dataviz/index.html)
 
 
-
-
 # 4. Teaching & Learning Activities
 ## 4.1 Learning Activities
 ### Session 1 R
@@ -83,6 +81,8 @@ Import data and UNIX (10/14)
 UNIX tutorial (10/16)
 
 ###  Mid term (Week of 10/21)
+
+[Exam questions](https://docs.google.com/presentation/d/1HmetiYds1hHbtcH4puC102AZzYa0eKS9WJATPbofUXc/edit?usp=sharing)
 
 ### Session 3 Statistics with R
 
