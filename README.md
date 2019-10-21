@@ -76,41 +76,42 @@ Data visualization principles (10/7)
 
 Robust summaries (10/9)
 
-Import data and UNIX (10/14)
+Import data and UNIX part1 (10/14)
 
-UNIX tutorial (10/16)
+Import data and UNIX part2 (10/16)
+
+
 
 ###  Mid term (Week of 10/21)
 
 [Exam questions](https://docs.google.com/presentation/d/1HmetiYds1hHbtcH4puC102AZzYa0eKS9WJATPbofUXc/edit?usp=sharing)
 
+
+UNIX tutorial (10/28)
+
+UNIX tutorial (10/30)
+
 ### Session 3 Statistics with R
 
-Probability (10/28)
+Probability part 1 (11/4)
 
-Random variables (10/30)
+Probability part 2 (11/6)
 
-Statistical Inference (11/4)
+Random variables part 1 (11/11)
 
-Regression (11/6)
+Random variables part 2 (11/13)
 
-Linear model (11/11)
+Statistical Inference part 1 (11/18)
 
-Association is not causation (11/13)
+Statistical Inference part 2 (11/20)
 
-### Session 4. Data wrangling 
+Regression part 1 (11/25)
 
-Reshaping (11/18)
+Regression part 2 (11/27)
 
-Joining tables (11/20)
+Linear model part 1 (12/2)
 
-String process (11/25)
-
-Parsing Dates and Times (11/27)
-
-Text mining (12/2)
-
-Supplementary or placeholder (12/4)
+Linear model part 2 (12/4)
 
 Supplementary or placeholder (12/9)
 
