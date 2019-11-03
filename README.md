@@ -93,7 +93,7 @@ UNIX tutorial (10/30)
 
 ### Session 3 Statistics with R
 
-Probability part 1 (11/4)
+[Probability part 1 (11/4)](https://docs.google.com/presentation/d/12rhgperafHJkM7Do0wCvC3nyz2piWc4AU1SR5RBIWzI/edit?usp=sharing)
 
 Probability part 2 (11/6)
 
