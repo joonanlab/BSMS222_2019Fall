@@ -97,7 +97,7 @@ UNIX tutorial (10/30)
 
 Probability part 2 (11/6)
 
-Random variables part 1 (11/11)
+[Random variables part 1 (11/11)](https://docs.google.com/presentation/d/1_8yc--2xtq7NgwgrnMNOq_x4jX3hZwkxMu4KFd03kg4/edit?usp=sharing)
 
 Random variables part 2 (11/13)
 
