@@ -101,7 +101,7 @@ Probability part 2 (11/6)
 
 Random variables part 2 (11/13)
 
-Statistical Inference part 1 (11/18)
+[Statistical Inference part 1 (11/18)](https://docs.google.com/presentation/d/1aOo44Hzg9ev94NeKi2H2UmRtP0xyjyCcS2IBc1IBCxc/edit?usp=sharing)
 
 Statistical Inference part 2 (11/20)
 
