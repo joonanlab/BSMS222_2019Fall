@@ -105,13 +105,11 @@ Random variables part 2 (11/13)
 
 Statistical Inference part 2 (11/20)
 
-Regression part 1 (11/25)
+[Statistical Model1 (11/27)](https://docs.google.com/presentation/d/11Y5zxtxtD2FEXFe7XG4LMsS-gDXE9_E-_VWpsrGW0dQ/edit?usp=sharing)
 
-Regression part 2 (11/27)
+Statistical Model2 (12/2)
 
-Linear model part 1 (12/2)
-
-Linear model part 2 (12/4)
+Statistical Model3 (12/4)
 
 Supplementary or placeholder (12/9)
 
